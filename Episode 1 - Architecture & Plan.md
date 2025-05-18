@@ -7,7 +7,7 @@
 > Collecter logs, flux réseau et télémétrie depuis VMs de test et lab personnels\
 > Déployer un SIEM corrélé + SOAR\
 > Enrichir les alertes via des plateformes open-source (MISP, OpenCTI)\
-> Pouvoir déclencher Atomic Red Team / CALDERA afin de valider les détections\
+> Pouvoir déclencher Atomic Red Team / CALDERA afin de valider les détections
 
 ## 2. Mise en place d'une infrastructure virtuelle
 
@@ -15,7 +15,7 @@
 > **ESXi** : 5 Esxi V8 -> 3 sites (2*ESXI Site A, 2*ESXI Site B, 1*ESXI Site Witness)\
 > **vSAN** : stretched cluster\
 > **Capacité libre dédiée SOC** : 1To SSD NVME\
-> **Réseau** : VLANs 10-Mgmt / 20-Prod / 30-Capture / 40-SOC\
+> **Réseau** : VLANs 10-Mgmt / 20-Prod / 30-Capture / 40-SOC
 
 # 3.SOC Stack
 
@@ -42,7 +42,7 @@
 > CTI & Vuln : \
 > SOAR & Case Mgmt : \
 > Playbooks & Dashboards : \
-> Purple Team : exécuter Atomic Red Team, valider détections, ajuster corrélation\
+> Purple Team : exécuter Atomic Red Team, valider détections, ajuster corrélation
 
 # 5. Références
 
@@ -57,6 +57,6 @@
 > [Sigma](https://github.com/SigmaHQ/sigma "Sigma (règles Sigma)")\
 > [Prometheus](https://prometheus.io/ "Prometheus")\
 > [Grafana](https://grafana.com/ "Grafana")\
-> [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team "Atomic Red Team")\
+> [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team "Atomic Red Team")
 
 
